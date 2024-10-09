@@ -106,7 +106,7 @@
 <div class="heart"></div>
 
 <div class="container">
-    <div class="subtitle">Joss & Sebas</div> <!-- Texto agregado "Joss & Sebas" -->
+    <div class="subtitle">Joss & Sebas</div> <!-- Texto agregado "Joss&Sebas" -->
     <h1>Falta para nuestro primer mes</h1>
     <div class="countdown">
         <div id="dias">0</div>
